@@ -1,0 +1,8 @@
+/home/jojolkree/OOP/Generics.Tables/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/jojolkree/OOP/Generics.Tables/bin/Debug/nunit.framework.dll
+/home/jojolkree/OOP/Generics.Tables/bin/Debug/nunitlite.dll
+/home/jojolkree/OOP/Generics.Tables/bin/Debug/Generics.Table.exe.config
+/home/jojolkree/OOP/Generics.Tables/bin/Debug/Generics.Table.exe.mdb
+/home/jojolkree/OOP/Generics.Tables/bin/Debug/Generics.Table.exe
+/home/jojolkree/OOP/Generics.Tables/obj/Debug/Generics.Table.exe
+/home/jojolkree/OOP/Generics.Tables/obj/Debug/Generics.Table.exe.mdb

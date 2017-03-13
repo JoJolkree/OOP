@@ -1,0 +1,8 @@
+/home/jojolkree/OOP/Inheritance.Geometry/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/jojolkree/OOP/Inheritance.Geometry/bin/Debug/Inheritance.Virtual.exe.config
+/home/jojolkree/OOP/Inheritance.Geometry/bin/Debug/Inheritance.Virtual.exe.mdb
+/home/jojolkree/OOP/Inheritance.Geometry/bin/Debug/Inheritance.Virtual.exe
+/home/jojolkree/OOP/Inheritance.Geometry/obj/Debug/Inheritance.Virtual.exe
+/home/jojolkree/OOP/Inheritance.Geometry/obj/Debug/Inheritance.Virtual.exe.mdb
+/home/jojolkree/OOP/Inheritance.Geometry/bin/Debug/nunit.framework.dll
+/home/jojolkree/OOP/Inheritance.Geometry/bin/Debug/nunitlite.dll

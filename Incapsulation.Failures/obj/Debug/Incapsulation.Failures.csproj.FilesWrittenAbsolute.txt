@@ -1,0 +1,7 @@
+/home/jojolkree/OOP/Incapsulation.Failures/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/jojolkree/OOP/Incapsulation.Failures/bin/Debug/Incapsulation.Failures.exe.mdb
+/home/jojolkree/OOP/Incapsulation.Failures/bin/Debug/Incapsulation.Failures.exe
+/home/jojolkree/OOP/Incapsulation.Failures/obj/Debug/Incapsulation.Failures.exe
+/home/jojolkree/OOP/Incapsulation.Failures/obj/Debug/Incapsulation.Failures.exe.mdb
+/home/jojolkree/OOP/Incapsulation.Failures/bin/Debug/nunit.framework.dll
+/home/jojolkree/OOP/Incapsulation.Failures/bin/Debug/nunitlite.dll

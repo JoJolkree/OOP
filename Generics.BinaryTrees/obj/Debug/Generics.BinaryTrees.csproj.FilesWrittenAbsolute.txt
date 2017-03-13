@@ -1,0 +1,8 @@
+/home/jojolkree/OOP/Generics.BinaryTrees/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/jojolkree/OOP/Generics.BinaryTrees/bin/Debug/Generics.BinaryTree.exe.config
+/home/jojolkree/OOP/Generics.BinaryTrees/bin/Debug/Generics.BinaryTree.exe.mdb
+/home/jojolkree/OOP/Generics.BinaryTrees/bin/Debug/Generics.BinaryTree.exe
+/home/jojolkree/OOP/Generics.BinaryTrees/obj/Debug/Generics.BinaryTree.exe
+/home/jojolkree/OOP/Generics.BinaryTrees/obj/Debug/Generics.BinaryTree.exe.mdb
+/home/jojolkree/OOP/Generics.BinaryTrees/bin/Debug/nunit.framework.dll
+/home/jojolkree/OOP/Generics.BinaryTrees/bin/Debug/nunitlite.dll

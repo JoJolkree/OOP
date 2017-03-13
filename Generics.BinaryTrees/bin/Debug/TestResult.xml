@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Generics.BinaryTree.exe" fullname="/home/jojolkree/OOP/Generics.BinaryTrees/bin/Debug/Generics.BinaryTree.exe" testcasecount="5" result="Failed" start-time="2017-03-05 16:38:17Z" end-time="2017-03-05 16:38:17Z" duration="0.108278" total="5" passed="4" failed="1" inconclusive="0" skipped="0" asserts="8" random-seed="1648162177">
+  <command-line><![CDATA[/home/jojolkree/OOP/Generics.BinaryTrees/bin/Debug/Generics.BinaryTree.exe]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1006" name="Generics.BinaryTree.exe" fullname="/home/jojolkree/OOP/Generics.BinaryTrees/bin/Debug/Generics.BinaryTree.exe" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2017-03-05 16:38:17Z" end-time="2017-03-05 16:38:17Z" duration="0.108278" total="5" passed="4" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="8">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Unix 4.8.0.39" platform="Unix" cwd="/home/jojolkree/OOP/Generics.BinaryTrees/bin/Debug" machine-name="JoJoNotebook" user="jojolkree" user-domain="JoJoNotebook" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="/home/jojolkree/OOP/Generics.BinaryTrees/bin/Debug" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="10760" />
+      <property name="_APPDOMAIN" value="Generics.BinaryTree.exe" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1007" name="Generics" fullname="Generics" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2017-03-05 16:38:17Z" end-time="2017-03-05 16:38:17Z" duration="0.092417" total="5" passed="4" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="8">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestSuite" id="1008" name="BinaryTrees" fullname="Generics.BinaryTrees" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2017-03-05 16:38:17Z" end-time="2017-03-05 16:38:17Z" duration="0.089645" total="5" passed="4" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="8">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-suite type="TestFixture" id="1000" name="BinaryTree_should" fullname="Generics.BinaryTrees.BinaryTree_should" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2017-03-05 16:38:17Z" end-time="2017-03-05 16:38:17Z" duration="0.084543" total="5" passed="4" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="8">
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1001" name="BeEmptyWhenCreated" fullname="Generics.BinaryTrees.BinaryTree_should.BeEmptyWhenCreated" methodname="BeEmptyWhenCreated" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" seed="680966498" result="Passed" start-time="2017-03-05 16:38:17Z" end-time="2017-03-05 16:38:17Z" duration="0.024794" asserts="1" />
+          <test-case id="1005" name="InitializeFromAnArrayAndSort1" fullname="Generics.BinaryTrees.BinaryTree_should.InitializeFromAnArrayAndSort1" methodname="InitializeFromAnArrayAndSort1" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" seed="1255761634" result="Failed" start-time="2017-03-05 16:38:17Z" end-time="2017-03-05 16:38:17Z" duration="0.036419" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected is <System.Int32[4]>, actual is <Generics.BinaryTrees.BinaryTree`1[System.Int32]>
+  Values differ at index [0]
+  Expected: 1
+  But was:  2
+]]></message>
+              <stack-trace><![CDATA[at NUnit.Framework.CollectionAssert.AreEqual (System.Collections.IEnumerable expected, System.Collections.IEnumerable actual, System.String message, System.Object[] args) [0x00007] in <0e18fcb6480844ef9101c1a098e37eef>:0
+at NUnit.Framework.CollectionAssert.AreEqual (System.Collections.IEnumerable expected, System.Collections.IEnumerable actual) [0x00000] in <0e18fcb6480844ef9101c1a098e37eef>:0
+at Generics.BinaryTrees.BinaryTree_should.InitializeFromAnArrayAndSort1 () [0x0001f] in <cec9b1a66b564f0d9cb9d7e09bd1e597>:0
+]]></stack-trace>
+            </failure>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected is <System.Int32[4]>, actual is <Generics.BinaryTrees.BinaryTree`1[System.Int32]>
+  Values differ at index [0]
+  Expected: 1
+  But was:  2
+]]></message>
+                <stack-trace><![CDATA[at NUnit.Framework.CollectionAssert.AreEqual (System.Collections.IEnumerable expected, System.Collections.IEnumerable actual, System.String message, System.Object[] args) [0x00000] in <0e18fcb6480844ef9101c1a098e37eef>:0
+at NUnit.Framework.CollectionAssert.AreEqual (System.Collections.IEnumerable expected, System.Collections.IEnumerable actual) [0x00000] in <0e18fcb6480844ef9101c1a098e37eef>:0
+at Generics.BinaryTrees.BinaryTree_should.InitializeFromAnArrayAndSort1 () [0x00000] in <cec9b1a66b564f0d9cb9d7e09bd1e597>:0
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="1003" name="PlaceEqualElementToLeft" fullname="Generics.BinaryTrees.BinaryTree_should.PlaceEqualElementToLeft" methodname="PlaceEqualElementToLeft" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" seed="343046767" result="Passed" start-time="2017-03-05 16:38:17Z" end-time="2017-03-05 16:38:17Z" duration="0.000687" asserts="2" />
+          <test-case id="1004" name="PlaceGreaterElementToRight" fullname="Generics.BinaryTrees.BinaryTree_should.PlaceGreaterElementToRight" methodname="PlaceGreaterElementToRight" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" seed="1616543073" result="Passed" start-time="2017-03-05 16:38:17Z" end-time="2017-03-05 16:38:17Z" duration="0.000664" asserts="2" />
+          <test-case id="1002" name="PlaceLesserElementToLeft" fullname="Generics.BinaryTrees.BinaryTree_should.PlaceLesserElementToLeft" methodname="PlaceLesserElementToLeft" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" seed="1334424819" result="Passed" start-time="2017-03-05 16:38:17Z" end-time="2017-03-05 16:38:17Z" duration="0.000671" asserts="2" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

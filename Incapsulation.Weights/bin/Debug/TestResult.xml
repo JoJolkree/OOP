@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Incapsulation.Weights.exe" fullname="/home/jojolkree/OOP/Incapsulation.Weights/bin/Debug/Incapsulation.Weights.exe" testcasecount="8" result="Passed" start-time="2017-02-18 18:43:57Z" end-time="2017-02-18 18:43:57Z" duration="0.088356" total="8" passed="8" failed="0" inconclusive="0" skipped="0" asserts="9" random-seed="1340793553">
+  <command-line><![CDATA[/home/jojolkree/OOP/Incapsulation.Weights/bin/Debug/Incapsulation.Weights.exe]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1009" name="Incapsulation.Weights.exe" fullname="/home/jojolkree/OOP/Incapsulation.Weights/bin/Debug/Incapsulation.Weights.exe" runstate="Runnable" testcasecount="8" result="Passed" start-time="2017-02-18 18:43:57Z" end-time="2017-02-18 18:43:57Z" duration="0.088356" total="8" passed="8" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Unix 4.8.0.37" platform="Unix" cwd="/home/jojolkree/OOP/Incapsulation.Weights/bin/Debug" machine-name="JoJoNotebook" user="jojolkree" user-domain="JoJoNotebook" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="/home/jojolkree/OOP/Incapsulation.Weights/bin/Debug" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="6128" />
+      <property name="_APPDOMAIN" value="Incapsulation.Weights.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1010" name="Incapsulation" fullname="Incapsulation" runstate="Runnable" testcasecount="8" result="Passed" start-time="2017-02-18 18:43:57Z" end-time="2017-02-18 18:43:57Z" duration="0.071036" total="8" passed="8" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+      <test-suite type="TestSuite" id="1011" name="Weights" fullname="Incapsulation.Weights" runstate="Runnable" testcasecount="8" result="Passed" start-time="2017-02-18 18:43:57Z" end-time="2017-02-18 18:43:57Z" duration="0.068286" total="8" passed="8" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+        <test-suite type="TestFixture" id="1000" name="Indexer_should" fullname="Incapsulation.Weights.Indexer_should" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" testcasecount="8" result="Passed" start-time="2017-02-18 18:43:57Z" end-time="2017-02-18 18:43:57Z" duration="0.063341" total="8" passed="8" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+          <test-case id="1004" name="FailWithWrongArguments1" fullname="Incapsulation.Weights.Indexer_should.FailWithWrongArguments1" methodname="FailWithWrongArguments1" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="979240186" result="Passed" start-time="2017-02-18 18:43:57Z" end-time="2017-02-18 18:43:57Z" duration="0.016488" asserts="1" />
+          <test-case id="1005" name="FailWithWrongArguments2" fullname="Incapsulation.Weights.Indexer_should.FailWithWrongArguments2" methodname="FailWithWrongArguments2" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1671427206" result="Passed" start-time="2017-02-18 18:43:57Z" end-time="2017-02-18 18:43:57Z" duration="0.000638" asserts="1" />
+          <test-case id="1006" name="FailWithWrongArguments3" fullname="Incapsulation.Weights.Indexer_should.FailWithWrongArguments3" methodname="FailWithWrongArguments3" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="477463357" result="Passed" start-time="2017-02-18 18:43:57Z" end-time="2017-02-18 18:43:57Z" duration="0.000601" asserts="1" />
+          <test-case id="1007" name="FailWithWrongIndexing1" fullname="Incapsulation.Weights.Indexer_should.FailWithWrongIndexing1" methodname="FailWithWrongIndexing1" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="364235400" result="Passed" start-time="2017-02-18 18:43:57Z" end-time="2017-02-18 18:43:57Z" duration="0.000801" asserts="1" />
+          <test-case id="1008" name="FailWithWrongIndexing2" fullname="Incapsulation.Weights.Indexer_should.FailWithWrongIndexing2" methodname="FailWithWrongIndexing2" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="306436601" result="Passed" start-time="2017-02-18 18:43:57Z" end-time="2017-02-18 18:43:57Z" duration="0.000690" asserts="1" />
+          <test-case id="1002" name="GetCorrectly" fullname="Incapsulation.Weights.Indexer_should.GetCorrectly" methodname="GetCorrectly" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1986778678" result="Passed" start-time="2017-02-18 18:43:57Z" end-time="2017-02-18 18:43:57Z" duration="0.010414" asserts="2" />
+          <test-case id="1001" name="HaveCorrectLength" fullname="Incapsulation.Weights.Indexer_should.HaveCorrectLength" methodname="HaveCorrectLength" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="155162012" result="Passed" start-time="2017-02-18 18:43:57Z" end-time="2017-02-18 18:43:57Z" duration="0.001199" asserts="1" />
+          <test-case id="1003" name="SetCorrectly" fullname="Incapsulation.Weights.Indexer_should.SetCorrectly" methodname="SetCorrectly" classname="Incapsulation.Weights.Indexer_should" runstate="Runnable" seed="1237260180" result="Passed" start-time="2017-02-18 18:43:57Z" end-time="2017-02-18 18:43:57Z" duration="0.000378" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

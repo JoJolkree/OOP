@@ -1,0 +1,7 @@
+/home/jojolkree/OOP/Incapsulation.RationalNumbers/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/jojolkree/OOP/Incapsulation.RationalNumbers/bin/Debug/Incapsulation.RationalNumbers.exe.mdb
+/home/jojolkree/OOP/Incapsulation.RationalNumbers/bin/Debug/Incapsulation.RationalNumbers.exe
+/home/jojolkree/OOP/Incapsulation.RationalNumbers/obj/Debug/Incapsulation.RationalNumbers.exe
+/home/jojolkree/OOP/Incapsulation.RationalNumbers/obj/Debug/Incapsulation.RationalNumbers.exe.mdb
+/home/jojolkree/OOP/Incapsulation.RationalNumbers/bin/Debug/nunit.framework.dll
+/home/jojolkree/OOP/Incapsulation.RationalNumbers/bin/Debug/nunitlite.dll

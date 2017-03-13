@@ -1,0 +1,8 @@
+/home/jojolkree/OOP/Generics.Robots/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/jojolkree/OOP/Generics.Robots/bin/Debug/Generics.Robots.exe.config
+/home/jojolkree/OOP/Generics.Robots/bin/Debug/Generics.Robots.exe.mdb
+/home/jojolkree/OOP/Generics.Robots/bin/Debug/Generics.Robots.exe
+/home/jojolkree/OOP/Generics.Robots/obj/Debug/Generics.Robots.exe
+/home/jojolkree/OOP/Generics.Robots/obj/Debug/Generics.Robots.exe.mdb
+/home/jojolkree/OOP/Generics.Robots/bin/Debug/nunit.framework.dll
+/home/jojolkree/OOP/Generics.Robots/bin/Debug/nunitlite.dll
