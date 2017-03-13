@@ -1,0 +1,8 @@
+D:\home\OOP\Delegates\Delegates.Observers\bin\Debug\Delegates.Observers.exe.config
+D:\home\OOP\Delegates\Delegates.Observers\bin\Debug\Delegates.Observers.exe
+D:\home\OOP\Delegates\Delegates.Observers\bin\Debug\Delegates.Observers.pdb
+D:\home\OOP\Delegates\Delegates.Observers\bin\Debug\nunit.framework.dll
+D:\home\OOP\Delegates\Delegates.Observers\bin\Debug\nunitlite.dll
+D:\home\OOP\Delegates\Delegates.Observers\obj\Debug\Delegates.Observers.csprojResolveAssemblyReference.cache
+D:\home\OOP\Delegates\Delegates.Observers\obj\Debug\Delegates.Observers.exe
+D:\home\OOP\Delegates\Delegates.Observers\obj\Debug\Delegates.Observers.pdb

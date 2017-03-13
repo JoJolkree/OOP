@@ -1,0 +1,7 @@
+D:\home\OOP\Delegates\Delegates.PairsAnalysis\bin\Debug\Delegates.PairsAnalysis.exe
+D:\home\OOP\Delegates\Delegates.PairsAnalysis\bin\Debug\Delegates.PairsAnalysis.pdb
+D:\home\OOP\Delegates\Delegates.PairsAnalysis\bin\Debug\nunit.framework.dll
+D:\home\OOP\Delegates\Delegates.PairsAnalysis\bin\Debug\nunitlite.dll
+D:\home\OOP\Delegates\Delegates.PairsAnalysis\obj\Debug\Delegates.PairsAnalysis.csprojResolveAssemblyReference.cache
+D:\home\OOP\Delegates\Delegates.PairsAnalysis\obj\Debug\Delegates.PairsAnalysis.exe
+D:\home\OOP\Delegates\Delegates.PairsAnalysis\obj\Debug\Delegates.PairsAnalysis.pdb

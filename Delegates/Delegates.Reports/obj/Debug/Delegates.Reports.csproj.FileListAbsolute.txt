@@ -1,0 +1,8 @@
+D:\home\OOP\Delegates\Delegates.Reports\bin\Debug\Delegates.Reports.exe.config
+D:\home\OOP\Delegates\Delegates.Reports\bin\Debug\Delegates.Reports.exe
+D:\home\OOP\Delegates\Delegates.Reports\bin\Debug\Delegates.Reports.pdb
+D:\home\OOP\Delegates\Delegates.Reports\bin\Debug\nunit.framework.dll
+D:\home\OOP\Delegates\Delegates.Reports\bin\Debug\nunitlite.dll
+D:\home\OOP\Delegates\Delegates.Reports\obj\Debug\Delegates.Reports.csprojResolveAssemblyReference.cache
+D:\home\OOP\Delegates\Delegates.Reports\obj\Debug\Delegates.Reports.exe
+D:\home\OOP\Delegates\Delegates.Reports\obj\Debug\Delegates.Reports.pdb
