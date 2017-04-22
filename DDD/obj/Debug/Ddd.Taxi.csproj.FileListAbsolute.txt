@@ -1,0 +1,7 @@
+C:\Users\JoJolkree\UrFU\GitHub\OOP\DDD\bin\Debug\Ddd.Infrastructure.dll
+C:\Users\JoJolkree\UrFU\GitHub\OOP\DDD\bin\Debug\Ddd.Infrastructure.pdb
+C:\Users\JoJolkree\UrFU\GitHub\OOP\DDD\bin\Debug\nunit.framework.dll
+C:\Users\JoJolkree\UrFU\GitHub\OOP\DDD\bin\Debug\nunitlite.dll
+C:\Users\JoJolkree\UrFU\GitHub\OOP\DDD\obj\Debug\Ddd.Taxi.csprojResolveAssemblyReference.cache
+C:\Users\JoJolkree\UrFU\GitHub\OOP\DDD\obj\Debug\Ddd.Infrastructure.dll
+C:\Users\JoJolkree\UrFU\GitHub\OOP\DDD\obj\Debug\Ddd.Infrastructure.pdb
